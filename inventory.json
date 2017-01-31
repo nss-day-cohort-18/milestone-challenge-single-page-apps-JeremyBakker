@@ -1,0 +1,35 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8,999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25k miles on it. Leather seats, power everything."
+    },
+  
+  	{
+  		"make": "Honda",
+  		"model": "Accord",
+  		"year": "2006",
+  		"price": "4,595",
+  		"description": "This is a used 2006 Honda Accord with 116k miles. Well maintained."
+  	},
+
+  	{
+  		"make": "Chevy",
+  		"model": "Malibu",
+  		"year": "2016",
+  		"price": "20,345",
+  		"description": "This is a gently used 2016 Chevy Malibu. It has less than 2000 miles. A must see!"
+  	},
+
+    {
+      "make": "Ford",
+      "model": "F150",
+      "year": "2009",
+      "price": "7,444",
+      "description": "2013 Ford F150 SuperCrew XLT Short Bed. Black with gray cloth seating. Power locks and windows. New tires. Priced to sell."
+    }
+  ]
+}
